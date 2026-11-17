@@ -1,1 +1,1 @@
-{"root":["./src/App.tsx","./src/main.tsx","./src/components/Controls/Controls.tsx","./src/components/HumanProfile/HumanProfile.tsx","./src/components/Statistics/Statistics.tsx","./src/components/World/World.tsx","./src/engine/simulation.ts","./src/types/human.ts"],"errors":true,"version":"5.8.3"}
+{"root":["./src/app.tsx","./src/main.tsx","./src/components/controls/controls.tsx","./src/components/humanprofile/humanprofile.tsx","./src/components/statistics/statistics.tsx","./src/components/world/world.tsx","./src/engine/simulation.ts","./src/types/human.ts"],"version":"5.8.3"}

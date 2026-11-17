@@ -22,6 +22,7 @@ export type Human = {
   generation: number;
   emotion: Emotion;
   emotionTimer: number;
+  personality: "friendly" | "shy" | "energetic" | "romantic" | "curious" | "calm";
 };
 
 export type SimulationStats = {
