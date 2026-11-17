@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/components/Controls/Controls.tsx","./src/components/HumanProfile/HumanProfile.tsx","./src/components/Statistics/Statistics.tsx","./src/components/World/World.tsx","./src/engine/simulation.ts","./src/types/human.ts"],"errors":true,"version":"5.8.3"}
